@@ -3,10 +3,10 @@ Example of API .Net Core 6, DDD, SQL Server, XUnit
 
 
 <details open="open">
-  <summary>Conteudo</summary>
+  <summary>Content</summary>
   <ol>
     <li>
-      <a href="#sobre-o-projeto">About the Project</a>
+      <a href="#about-the-project">About the Project</a>
       <ul>
         <li><a href="#build-status">Build Status</a></li>
         <li><a href="#built-with">Built With</a></li>
@@ -24,7 +24,7 @@ Example of API .Net Core 6, DDD, SQL Server, XUnit
   </ol>
 </details>
 
-## About th Project
+### About the Project
 
 This project is a .NET Core 6 API built with Domain Driven Design. It aims to share programming knowledge and elevate developers' skills. Despite its simplicity, it covers SOLID principles and comprehensive unit tests using Postman collections.
 
